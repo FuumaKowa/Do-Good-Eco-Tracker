@@ -1,0 +1,6 @@
+{
+  "name": "Do Good Eco Tracker",
+  "description": "A food calorie tracker integrated with the Do Good 9-Day Internal Eco-Plan and Enzyme Dosage Guide.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
